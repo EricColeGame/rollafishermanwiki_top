@@ -22,12 +22,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const title = "Roll a Fisherman Wiki";
+  const description = "Complete Roll a Fisherman fan wiki with active codes, fish, fishermen, upgrades, rebirths, offline earnings and progression guides.";
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Roll a Fisherman Wiki", template: "%s" },
-    description: "Complete Roll a Fisherman fan wiki with active codes, fish, fishermen, upgrades, rebirths, offline earnings and progression guides.",
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    title: { default: title, template: "%s" },
+    description,
+    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, title, description, images: [{ url: image }] },
+    twitter: { card: "summary_large_image", title, description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
