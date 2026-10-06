@@ -6,18 +6,7 @@
     "description": "Your ultimate guide to Roll a Fisherman on Roblox! Explore active codes, best fish, fishermen, upgrades, rebirths, offline earnings and progression guides.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {
-    "home": "Home",
-    "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "codes": "Codes",
-    "guide": "Guide",
-    "mechanics": "Mechanics",
-    "items": "Items",
-    "progression": "Progression",
-    "maps": "Maps",
-    "community": "Community"
-  },
+  "nav": {},
   "home": {
     "meta": {
       "title": "Roll a Fisherman Wiki - Codes, Fish & Upgrades",
@@ -472,34 +461,13 @@
       "secondary": "Play on Roblox"
     }
   },
-  "codes": {
-    "overviewTitle": "Roll a Fisherman Codes (October 2026)",
-    "overviewDescription": "All active and expired Roll a Fisherman codes, plus step-by-step redemption instructions and reward details, tracked by the Roll a Fisherman Wiki."
-  },
-  "guide": {
-    "overviewTitle": "Roll a Fisherman Beginner Guide",
-    "overviewDescription": "Start your Roll a Fisherman journey with the Roll a Fisherman Wiki: controls, the dock loop, rolling fishermen, and early cash tips for new players."
-  },
-  "mechanics": {
-    "overviewTitle": "Roll a Fisherman Game Mechanics",
-    "overviewDescription": "Fish rarities, trading, admin abuse events, and the core Roll a Fisherman systems explained by the Roll a Fisherman Wiki."
-  },
-  "items": {
-    "overviewTitle": "Roll a Fisherman Fish and Items",
-    "overviewDescription": "Every notable catch in Roll a Fisherman, from seals and orcas to mythic and divine fish, documented by the Roll a Fisherman Wiki."
-  },
-  "progression": {
-    "overviewTitle": "Roll a Fisherman Progression Guide",
-    "overviewDescription": "Reach your first million and beyond with Roll a Fisherman Wiki money, rebirth, and rarest-fish roadmaps."
-  },
-  "maps": {
-    "overviewTitle": "Roll a Fisherman Maps",
-    "overviewDescription": "Explore every Roll a Fisherman map, fishing spot, and hidden location with the Roll a Fisherman Wiki."
-  },
-  "community": {
-    "overviewTitle": "Roll a Fisherman Community and Updates",
-    "overviewDescription": "Patch notes, Discord links, update news, and creator events tracked by the Roll a Fisherman Wiki."
-  },
+  "codes": {},
+  "guide": {},
+  "mechanics": {},
+  "items": {},
+  "progression": {},
+  "maps": {},
+  "community": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
