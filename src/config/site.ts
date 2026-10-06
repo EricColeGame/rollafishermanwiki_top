@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://discord.com/invite/rollafisherman",
     youtube: "https://www.youtube.com/results?search_query=Roll+a+Fisherman+Roblox",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "es", "pt"],
   defaultLocale: "en",
 };
