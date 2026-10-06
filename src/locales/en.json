@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your Roll a Fisherman Journey",
+      "title": "Begin Your Roll a Fisherman Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the roll-and-catch loop from your first cast, with the rods worth keeping and where your opening Cash should go."
+          "description": "Learn the roll-and-catch loop, claim your free starter fisherman, and spend your first Cash on the upgrades that pay for themselves."
         },
         {
           "number": "2",
-          "title": "Fishing Map",
-          "description": "Unlock every zone, match your rods and bait to the tier, and farm the best fishing spots for fast income."
+          "title": "Best Farming Spots",
+          "description": "Match rods and bait to each fishing zone so you farm the highest-value catches per minute instead of casting blind."
         },
         {
           "number": "3",
-          "title": "Millionaire Roadmap",
-          "description": "A stage-by-stage progression plan that turns a slow grind into a seven-figure Cash empire."
+          "title": "Upgrades & Progression",
+          "description": "Follow a stage-by-stage roadmap from your first cast to rebirth multipliers and a seven-figure Cash empire."
         },
         {
           "number": "4",
           "title": "Working Codes",
-          "description": "Redeem the latest Roll a Fisherman codes for free Cash, Gold, Spins, and Luck multipliers before they expire."
+          "description": "Redeem the latest Roll a Fisherman codes for free Cash, Gold, Spins, and Luck boosts before they expire."
         }
       ]
     },
@@ -127,8 +127,8 @@
     "aboutGame": {
       "title": "What is Roll a Fisherman?",
       "paragraphs": [
-        "Roll a Fisherman is a free-to-play RNG fishing tycoon on Roblox from developer FISH X SPEEDI. The core loop is simple: roll for a fisherman, place them on your dock, catch fish, sell the haul for Cash, and reinvest in better rods, boats, and storage. Offline earnings keep the Cash flowing even after you log out.",
-        "What keeps players hooked is the depth behind the luck. Every roll is drawn from a weighted rarity pool, so stacking Luck, matching bait to the right zone, and timing rolls around events all matter. Add rebirth multipliers and a player-driven trading scene, and Roll a Fisherman becomes as much about smart budgeting as it is about lucky pulls."
+        "Roll a Fisherman is a free-to-play RNG fishing tycoon on Roblox from developer FISH X SPEEDI. The core loop is simple: roll for a fisherman, place them on your dock, catch fish, sell the haul for Cash, and reinvest in better rods, boats, and storage. Offline earnings keep the Cash flowing even while you are logged out.",
+        "The depth sits behind the luck. Every roll comes from a weighted rarity pool, so stacking Luck, matching bait to the right zone, and timing rolls around events all shift your odds. Add rebirth multipliers and a player-driven trading scene, and Roll a Fisherman rewards smart budgeting as much as lucky pulls."
       ],
       "stats": [
         {
@@ -160,7 +160,7 @@
     },
     "explore": {
       "title": "Explore the Roll a Fisherman Wiki",
-      "description": "Everything you need to master Roll a Fisherman on Roblox: working codes, beginner steps, fishing maps, fish rarity tiers, rods and gear, and a full progression roadmap.",
+      "description": "Everything you need to master Roll a Fisherman on Roblox: working codes, beginner steps, fishing zones, fish rarity tiers, rods and gear, and a full progression roadmap.",
       "modules": [
         {
           "order": 1,
@@ -425,7 +425,7 @@
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
+      "title": "Roll a Fisherman FAQ",
       "description": "Quick answers to the most common questions about Roll a Fisherman.",
       "items": [
         {
