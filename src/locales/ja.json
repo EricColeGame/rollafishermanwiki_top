@@ -1,1 +1,539 @@
-{}
+{
+  "site": {
+    "name": "Roll a Fisherman Wiki",
+    "shortName": "Roll a Fisherman",
+    "tagline": "コード、魚、釣り人＆アップグレードガイド",
+    "description": "RobloxのRoll a Fisherman完全ガイド！有効なコード、最強の魚、釣り人、アップグレード、転生、オフライン収益、進行ガイドを網羅。",
+    "legalNotice": "非公式ファンウィキ。プレイヤーによる、プレイヤーのためのサイトです。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切り替え",
+    "codes": "コード",
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "items": "アイテム",
+    "progression": "進行",
+    "maps": "マップ",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Roll a Fisherman Wiki - コード、魚＆アップグレード",
+      "description": "Robloxのコード、魚、釣り人、アップグレード、転生、オフライン収益、初心者ガイド、最新の攻略情報を扱うRoll a Fisherman Wiki。"
+    },
+    "hero": {
+      "eyebrow": "RNG釣りタイクーン",
+      "title": "Roll a Fisherman Wiki",
+      "description": "釣り人をロールし、ドックに配置し、魚を集め、売店でキャッシュを稼ぎ、釣り帝国をアップグレード。オフラインでも稼ぎ続けよう。",
+      "stats": [
+        "累計訪問5.8M+",
+        "同時接続9K+",
+        "有効コード7個",
+        "ピークCCU 28.7K+"
+      ],
+      "primaryCta": "Robloxでプレイ",
+      "secondaryCta": "有効コード",
+      "tertiaryCta": "初心者ガイド",
+      "videoLabel": "ゲームプレイ紹介"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "Roll a Fishermanの旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "ロール＆キャッチのループを学び、無料のスターター釣り人を受け取り、最初のキャッシュを元が取れるアップグレードに使おう。"
+        },
+        {
+          "number": "2",
+          "title": "最効率の稼ぎ場",
+          "description": "各釣りゾーンにロッドと餌を合わせ、闇雲に投げるのではなく毎分あたりの高価値な釣果を稼ごう。"
+        },
+        {
+          "number": "3",
+          "title": "アップグレード＆進行",
+          "description": "最初の一投から転生倍率、そして7桁のキャッシュ帝国まで、段階的なロードマップを進もう。"
+        },
+        {
+          "number": "4",
+          "title": "有効コード",
+          "description": "最新のRoll a Fishermanコードを期限切れ前に使って、無料キャッシュ、ゴールド、スピン、運アップを獲得しよう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題",
+      "quickLinks": [
+        "有効コード",
+        "初心者ガイド",
+        "釣りマップ",
+        "レアな魚"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "最初のロールから安定した自己循環型のキャッシュループまで、必要なすべて。",
+          "href": "/guide/roll-a-fisherman-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "有効コード",
+          "description": "無料のキャッシュ、ゴールド、スピン、運倍率、そしてよくある引き換えエラーの対処法。",
+          "href": "/codes/roll-a-fisherman-codes"
+        },
+        {
+          "badge": "人気",
+          "title": "釣りマップガイド",
+          "description": "すべてのゾーンを解放し、ロッドと餌を合わせ、各マップの代表的な魚を稼ごう。",
+          "href": "/maps/roll-a-fisherman-fishing-map"
+        },
+        {
+          "badge": "人気",
+          "title": "レアな魚",
+          "description": "ミシックオルカ、ディヴァインフィッシュ、そしてレアリティプール最上位の全ティア。",
+          "href": "/progression/roll-a-fisherman-rarest-fish"
+        },
+        {
+          "badge": "新着",
+          "title": "トレードガイド",
+          "description": "レアリティ、需要、供給が公正なトレードをどう左右するか、避けるべき危険信号も。",
+          "href": "/mechanics/roll-a-fisherman-trading"
+        },
+        {
+          "badge": "人気",
+          "title": "最大の魚",
+          "description": "ロッド、餌、深海域を駆使して新記録の重量を狙おう。",
+          "href": "/mechanics/roll-a-fisherman-biggest-fish"
+        },
+        {
+          "badge": "新着",
+          "title": "億万長者ロードマップ",
+          "description": "最初の一投から7桁のキャッシュまでの段階的プラン。",
+          "href": "/progression/roll-a-fisherman-millionaire"
+        },
+        {
+          "badge": "更新",
+          "title": "遊び方",
+          "description": "ロール＆キャッチのループ、レアリティ階層、うまくいくアップグレード順を学ぼう。",
+          "href": "/guide/roll-a-fisherman-how-to-play"
+        },
+        {
+          "badge": "新着",
+          "title": "アザラシガイド",
+          "description": "レアなアザラシのコレクタブルをロールする方法と、アイテムプールでの位置づけ。",
+          "href": "/items/roll-a-fisherman-seal"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Roll a Fishermanとは？",
+      "paragraphs": [
+        "Roll a Fishermanは、開発元FISH X SPEEDIによるRobloxの無料プレイRNG釣りタイクーンです。コアループはシンプル：釣り人をロールし、ドックに配置し、魚を釣り、獲物を売ってキャッシュに変え、より良いロッド、ボート、ストレージに再投資します。オフライン収益により、ログアウト中でもキャッシュが入り続けます。",
+        "奥深さは運の裏側にあります。すべてのロールは重み付けされたレアリティプールから行われ、運を積み上げ、ゾーンに合った餌を選び、イベントに合わせてロールのタイミングを計ることで確率が変わります。さらに転生倍率とプレイヤー主導のトレードシーンが加わり、Roll a Fishermanは幸運な引きと同じくらい賢い予算管理を報います。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "FISH X SPEEDI"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "釣りタイクーン"
+        },
+        {
+          "label": "訪問数",
+          "value": "5.8M+"
+        },
+        {
+          "label": "ピークCCU",
+          "value": "28.7K+"
+        },
+        {
+          "label": "有効コード",
+          "value": "7"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Roll a Fisherman Wikiを探索",
+      "description": "RobloxのRoll a Fishermanを極めるために必要なすべて：有効コード、初心者ステップ、釣りゾーン、魚のレアリティ階層、ロッドと装備、そして完全な進行ロードマップ。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Roll a Fisherman Wiki コード",
+          "description": "最新の有効なRoll a Fishermanコードで無料のキャッシュ、ゴールド、スピン、運倍率を獲得。よくある引き換えエラーの対処法も。",
+          "href": "/codes/roll-a-fisherman-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "RELEASE",
+              "detail": "最初のロッド用に無料キャッシュを配るローンチコード"
+            },
+            {
+              "label": "UPDATE1",
+              "detail": "ボーナスキャッシュとスピンが付く初回アップデートコード"
+            },
+            {
+              "label": "UPDATE2",
+              "detail": "ゴールドとホイールスピンが詰まった第2アップデートコード"
+            },
+            {
+              "label": "GOLD",
+              "detail": "アップグレードとプレミアム装備に使える高級ゴールド通貨"
+            },
+            {
+              "label": "UPGRADES",
+              "detail": "ロッド、ボート、ストレージに注ぎ込める追加キャッシュ"
+            },
+            {
+              "label": "FISHING",
+              "detail": "キャッシュに加えて運ブーストも付き、よりレアな釣果を狙える"
+            },
+            {
+              "label": "SEAL",
+              "detail": "無料報酬が手に入るアザラシをテーマにしたコード"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Roll a Fisherman Wiki 初心者ガイド",
+          "description": "ロール＆キャッチのループ、残すべきロッド、最初のキャッシュの使い道、進行を止める初心者のミスを扱うステップ形式の入門ガイド。",
+          "href": "/guide/roll-a-fisherman-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "チュートリアルを終えて無料のスターターロールを受け取る"
+            },
+            {
+              "label": "2",
+              "detail": "最高のロッドを装備し、開始ゾーンでキャッシュのため投げる"
+            },
+            {
+              "label": "3",
+              "detail": "5回まとめてロールし、使う前に停止ルールを決める"
+            },
+            {
+              "label": "4",
+              "detail": "レアリティの色を追うのではなく運と収入ステータスを比較する"
+            },
+            {
+              "label": "5",
+              "detail": "1回の釣りサイクルが遅くなったらすぐ次のゾーンを解放する"
+            },
+            {
+              "label": "6",
+              "detail": "急なイベントや限定ロール用にキャッシュの備蓄を確保する"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Roll a Fisherman Wiki 釣りガイド",
+          "description": "釣りの基本を解説：ゾーンがルートテーブルをどう絞るか、餌とロッドがどう積み重なるか、そして毎回の一投を安定収入に変える方法。",
+          "href": "/maps/roll-a-fisherman-fishing-map",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ゾーン",
+              "detail": "各マップがルートテーブルを絞り、釣果のレアリティ上限を決める"
+            },
+            {
+              "label": "餌",
+              "detail": "マップ専用の餌はロッドの性能よりも直接的にレア出現率を上げる"
+            },
+            {
+              "label": "ロッド",
+              "detail": "1本投げる前にロッドの特典をゾーン階層に合わせる"
+            },
+            {
+              "label": "運",
+              "detail": "運はレアリティの重みを変えるがマップの上限は超えられない"
+            },
+            {
+              "label": "代表魚",
+              "detail": "毎分あたりの収益を最大化するため各マップの代表的な魚を稼ぐ"
+            },
+            {
+              "label": "解放",
+              "detail": "売上目標を達成し、ロッド階層を満たし、必要なドロップを集める"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Roll a Fisherman Wiki 魚ガイド",
+          "description": "釣れる魚をレアリティと価値でランク付けしたカタログ。よくある初心者向けの釣果から、プール最上位のミシックオルカやディヴァインフィッシュまで。",
+          "href": "/progression/roll-a-fisherman-rarest-fish",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "ミシックオルカとディヴァインフィッシュ、プールで最もレアで価値のある釣果"
+            },
+            {
+              "label": "A",
+              "detail": "オルカと上位レジェンド級の引き、高いトレード価値と記録重量を持つ"
+            },
+            {
+              "label": "B",
+              "detail": "ハープシールやエピックの魚、安定した需要でコレクターが追う"
+            },
+            {
+              "label": "C",
+              "detail": "アザラシや一般的な釣果、コレクション図鑑を埋める"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Roll a Fisherman Wiki ロッドと装備",
+          "description": "ロッド、餌、ライン、リールを階層別に比較し、どのアップグレードが重量上限とレア釣果の確率を最速で上げるかを学ぼう。",
+          "href": "/mechanics/roll-a-fisherman-biggest-fish",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "ロッド",
+              "detail": "特典は状況次第なので、今のゾーンに合うロッドを装備する"
+            },
+            {
+              "label": "餌",
+              "detail": "プールを狙う魚種に偏らせ、食いつき速度を上げる"
+            },
+            {
+              "label": "ライン",
+              "detail": "深海の魚が食いつき始めたら強化ラインとリールが最も重要になる"
+            },
+            {
+              "label": "ボート",
+              "detail": "大きなボートとストレージで1回の釣行の釣果と収入が増える"
+            },
+            {
+              "label": "運",
+              "detail": "ロールをまとめて行う前に消耗品、イベントボーナス、グループ特典を積む"
+            },
+            {
+              "label": "アップグレード",
+              "detail": "見た目アイテムを買う前に収入上限を上げる装備に投資する"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Roll a Fisherman Wiki ロケーション",
+          "description": "初心者用の池から深海やイベント海域まで、すべての釣りゾーンを解放条件と代表的な魚とともに整理。",
+          "href": "/maps/roll-a-fisherman-map",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "池",
+              "detail": "コモンとアンコモンの魚が釣れる初心者用の水域、無料の初期装備付き"
+            },
+            {
+              "label": "港",
+              "detail": "最初の売上目標で解放される沿岸ゾーン、レアまでの上限"
+            },
+            {
+              "label": "海",
+              "detail": "ロッド階層の条件で解放される外洋マップ、エピックの釣果"
+            },
+            {
+              "label": "深海",
+              "detail": "記録魚向けの高重量プロファイル、通貨とクエストで解放"
+            },
+            {
+              "label": "イベント",
+              "detail": "限定ゾーンで専用の魚と激しい競争"
+            },
+            {
+              "label": "隠し",
+              "detail": "自己ベストを更新させてくれる解放可能なスポット"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Roll a Fisherman Wiki 進行ガイド",
+          "description": "最初の一投から億万長者、そしてビリオネアまでのマイルストーン型ロードマップ。各段階で何を解放し、アップグレードし、優先すべきかを示す。",
+          "href": "/progression/roll-a-fisherman-billionaire",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "レアを追う前に高収入ロッドで安定したキャッシュループを築く"
+            },
+            {
+              "label": "2",
+              "detail": "2つ目のゾーンを解放し、餌をアップグレードして釣果価値を上げる"
+            },
+            {
+              "label": "3",
+              "detail": "2本のロッド運用：1本は運狙い、1本は安定収入用"
+            },
+            {
+              "label": "4",
+              "detail": "アップグレードが高く感じ始めたら転生して倍率を積む"
+            },
+            {
+              "label": "5",
+              "detail": "深海に進み、代表的な魚を稼いで1セッション6桁を狙う"
+            },
+            {
+              "label": "6",
+              "detail": "トレード用に重複を確保し、ミシックとディヴァインの釣果を狙う"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Roll a Fisherman Wiki コツと裏技",
+          "description": "賢いロール、公正なトレード、効率的なセッションのための実践的な戦略。素早い進行と無駄な一投を分ける習慣も。",
+          "href": "/mechanics/roll-a-fisherman-trading",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "まとめロール",
+              "detail": "停止ルールを決めてまとめてロールし、不運をならしてキャッシュを守る"
+            },
+            {
+              "label": "トレード",
+              "detail": "どのオファーも受ける前にレアリティ、需要、供給を比較する"
+            },
+            {
+              "label": "備蓄",
+              "detail": "イベントや限定ロールは予告なく来るので、使い切ってゼロにしない"
+            },
+            {
+              "label": "記録",
+              "detail": "ゾーン、餌、重量を記録し、実際に効果のある方法を再現する"
+            },
+            {
+              "label": "忍耐",
+              "detail": "数投ごとに装備を替えるのではなく、1セッション同じ構成で続ける"
+            },
+            {
+              "label": "安全",
+              "detail": "トレードはゲーム内のみで行い、急かす取引や外部取引からは離れる"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Roll a Fisherman よくある質問",
+      "description": "Roll a Fishermanに関する最も一般的な質問への簡単な回答。",
+      "items": [
+        {
+          "question": "Roll a Fishermanとは何ですか？",
+          "answer": "Roll a Fishermanは、開発元FISH X SPEEDIによるRobloxの無料プレイRNG釣りタイクーンです。釣り人をロールし、ドックに配置して魚を釣り、獲物を売ってキャッシュに変え、より良いロッド、ボート、アップグレードに再投資します。オフライン収益によりセッション間もキャッシュが入り続けます。"
+        },
+        {
+          "question": "Roll a Fishermanは無料で遊べますか？",
+          "answer": "はい。Roll a FishermanはRobloxで無料で始められ、進行は釣りとコードで得たゲーム内キャッシュとゴールドで進みます。任意購入が存在する場合もありますが、コアループにリアルマネーを使う必要はありません。"
+        },
+        {
+          "question": "Roll a Fishermanで素早くキャッシュを増やすには？",
+          "answer": "まず高収入のロッドを作り、装備に合ったゾーンで釣り、毎分あたりの収益を最大化するため各マップの代表的な魚を稼ぎましょう。有効なRoll a Fishermanコードを使い、トレード用に重複を確保し、転生して永続倍率を積みましょう。"
+        },
+        {
+          "question": "Roll a Fishermanのコードはどう使いますか？",
+          "answer": "コードはキャッシュ、ゴールド、スピン、運倍率を付与する無料のプロモ文字列です。ゲーム内のコードメニューを開き、書かれているとおり正確に貼り付けて「引き換え」を押します。コードは大文字小文字を区別するので、手入力せずコピー＆ペーストしましょう。"
+        },
+        {
+          "question": "Roll a Fishermanで最もレアな魚は？",
+          "answer": "ミシックオルカとディヴァインフィッシュがレアリティプールの最上位に位置し、標準的なオルカなどのレジェンド級の引きより上です。レアリティと重量は別々に抽選されるため、レアな魚でも記録を出すには上限の高いゾーンと大物倍率が必要です。"
+        },
+        {
+          "question": "Roll a Fishermanで魚やアイテムをトレードできますか？",
+          "answer": "はい。トレードでは重複した釣果、ロッド、コレクタブルを他のプレイヤーと交換できます。オファーを受ける前にレアリティ、需要、供給を比較し、ゲーム内トレードシステムのみを使い、取引を外部に移さないようにしましょう。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Roll a Fishermanを極める準備はできた？",
+      "description": "最初の釣り人をロールしてからオフラインキャッシュ帝国を築くまで、無料で最新のガイドを揃えたコミュニティウィキが支えます。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Robloxでプレイ"
+    }
+  },
+  "codes": {
+    "overviewTitle": "Roll a Fisherman コード（2026年10月）",
+    "overviewDescription": "有効・期限切れのRoll a Fishermanコードのすべてに加え、引き換え手順と報酬の詳細をRoll a Fisherman Wikiが追跡。"
+  },
+  "guide": {
+    "overviewTitle": "Roll a Fisherman 初心者ガイド",
+    "overviewDescription": "Roll a Fisherman Wikiで旅を始めよう：操作方法、ドックのループ、釣り人のロール、新規プレイヤー向けの序盤キャッシュのコツ。"
+  },
+  "mechanics": {
+    "overviewTitle": "Roll a Fisherman ゲームメカニクス",
+    "overviewDescription": "魚のレアリティ、トレード、管理者乱用イベント、そしてRoll a Fishermanの中核システムをRoll a Fisherman Wikiが解説。"
+  },
+  "items": {
+    "overviewTitle": "Roll a Fisherman 魚とアイテム",
+    "overviewDescription": "アザラシやオルカからミシックやディヴァインの魚まで、Roll a Fishermanの注目すべき釣果をRoll a Fisherman Wikiが記録。"
+  },
+  "progression": {
+    "overviewTitle": "Roll a Fisherman 進行ガイド",
+    "overviewDescription": "Roll a Fisherman Wikiのお金、転生、レア魚ロードマップで最初の100万を超えよう。"
+  },
+  "maps": {
+    "overviewTitle": "Roll a Fisherman マップ",
+    "overviewDescription": "Roll a Fisherman Wikiで全マップ、釣りスポット、隠しロケーションを探索しよう。"
+  },
+  "community": {
+    "overviewTitle": "Roll a Fisherman コミュニティとアップデート",
+    "overviewDescription": "パッチノート、Discordリンク、アップデート情報、クリエイターイベントをRoll a Fisherman Wikiが追跡。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "ヘルプが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "ガイドはまだありません。また後で確認してください！"
+  },
+  "footer": {
+    "aboutTitle": "Roll a Fisherman Wiki",
+    "about": "Roll a Fisherman Wikiは、ドックのループ、魚、釣り人、アップグレード、転生、オフライン収益、そして新規・ベテランプレイヤーに必要なゲーム知識を扱う独立系のファン制作ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 Roll a Fisherman Wiki. FISH X SPEEDI および Roblox とは無関係です。",
+    "description": "Robloxの無料RNG釣りタイクーン。釣り人をロールし、魚を集め、オフラインでもキャッシュを稼ごう。",
+    "playGame": "Roll a Fishermanをプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "Roll a Fisherman ツール",
+    "beginnerGuide": "初心者ガイド",
+    "codesGuides": "コード＆報酬",
+    "fishGuides": "魚＆アイテム",
+    "mapsGuides": "マップ＆スポット",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

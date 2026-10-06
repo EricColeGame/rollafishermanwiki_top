@@ -1,1 +1,539 @@
-{}
+{
+  "site": {
+    "name": "Roll a Fisherman Wiki",
+    "shortName": "Roll a Fisherman",
+    "tagline": "Guias de códigos, peixes, pescadores e upgrades",
+    "description": "Seu guia definitivo de Roll a Fisherman no Roblox! Explore códigos ativos, os melhores peixes, pescadores, upgrades, renascimentos, ganhos offline e guias de progressão.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "codes": "Códigos",
+    "guide": "Guia",
+    "mechanics": "Mecânicas",
+    "items": "Itens",
+    "progression": "Progressão",
+    "maps": "Mapas",
+    "community": "Comunidade"
+  },
+  "home": {
+    "meta": {
+      "title": "Roll a Fisherman Wiki - Códigos, peixes e upgrades",
+      "description": "Roll a Fisherman Wiki com códigos do Roblox, peixes, pescadores, upgrades, renascimentos, ganhos offline, guias para iniciantes e as últimas dicas."
+    },
+    "hero": {
+      "eyebrow": "Tycoon de pesca RNG",
+      "title": "Roll a Fisherman Wiki",
+      "description": "Gire pescadores, coloque-os na sua doca, capture peixes, ganhe Cash nas bancas, melhore seu império de pesca e continue ganhando offline.",
+      "stats": [
+        "5.8M+ visitas totais",
+        "9K+ jogadores online",
+        "7 códigos ativos",
+        "28.7K+ CCU de pico"
+      ],
+      "primaryCta": "Jogar no Roblox",
+      "secondaryCta": "Códigos ativos",
+      "tertiaryCta": "Guia para iniciantes",
+      "videoLabel": "Demonstração de gameplay"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Comece sua jornada em Roll a Fisherman",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Aprenda o loop de girar e pescar, resgate seu pescador inicial grátis e gaste seu primeiro Cash nos upgrades que se pagam sozinhos."
+        },
+        {
+          "number": "2",
+          "title": "Melhores zonas de farm",
+          "description": "Combine varas e iscas com cada zona de pesca para farmar as capturas mais valiosas por minuto em vez de lançar às cegas."
+        },
+        {
+          "number": "3",
+          "title": "Upgrades e progressão",
+          "description": "Siga um roteiro por etapas do seu primeiro lançamento até multiplicadores de renascimento e um império de Cash de sete dígitos."
+        },
+        {
+          "number": "4",
+          "title": "Códigos ativos",
+          "description": "Resgate os códigos mais recentes de Roll a Fisherman para ganhar Cash, Gold, giros e bônus de sorte antes que expirem."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta agora",
+      "quickLinks": [
+        "Códigos ativos",
+        "Guia para iniciantes",
+        "Mapa de pesca",
+        "Peixes mais raros"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes",
+          "description": "Tudo o que você precisa do primeiro giro até um loop de Cash estável e autossustentável.",
+          "href": "/guide/roll-a-fisherman-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos ativos",
+          "description": "Cash, Gold, giros e multiplicadores de sorte grátis, com soluções para os erros de resgate mais comuns.",
+          "href": "/codes/roll-a-fisherman-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guia do mapa de pesca",
+          "description": "Desbloqueie cada zona, combine suas varas e iscas e farme o peixe característico de cada mapa.",
+          "href": "/maps/roll-a-fisherman-fishing-map"
+        },
+        {
+          "badge": "Popular",
+          "title": "Peixes mais raros",
+          "description": "A Orca Mítica, o Peixe Divino e todos os níveis no topo do pool de raridade.",
+          "href": "/progression/roll-a-fisherman-rarest-fish"
+        },
+        {
+          "badge": "Novo",
+          "title": "Guia de trocas",
+          "description": "Como raridade, demanda e oferta movem trocas justas, além dos sinais de alerta a evitar.",
+          "href": "/mechanics/roll-a-fisherman-trading"
+        },
+        {
+          "badge": "Popular",
+          "title": "Peixes maiores",
+          "description": "Combine varas, iscas e zonas de águas profundas para estabelecer um novo recorde de peso.",
+          "href": "/mechanics/roll-a-fisherman-biggest-fish"
+        },
+        {
+          "badge": "Novo",
+          "title": "Roteiro do milionário",
+          "description": "Um plano por etapas do seu primeiro lançamento até o Cash de sete dígitos.",
+          "href": "/progression/roll-a-fisherman-millionaire"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Como jogar",
+          "description": "Aprenda o loop de girar e pescar, os níveis de raridade e a ordem de upgrades que funciona.",
+          "href": "/guide/roll-a-fisherman-how-to-play"
+        },
+        {
+          "badge": "Novo",
+          "title": "Guia da foca",
+          "description": "Como conseguir o raro colecionável de foca e onde ele se encaixa no pool de itens.",
+          "href": "/items/roll-a-fisherman-seal"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Roll a Fisherman?",
+      "paragraphs": [
+        "Roll a Fisherman é um tycoon de pesca RNG free-to-play no Roblox do desenvolvedor FISH X SPEEDI. O loop principal é simples: gire para conseguir um pescador, coloque-o na sua doca, capture peixes, venda a pesca por Cash e reinvista em varas, barcos e armazenamento melhores. Os ganhos offline mantêm o Cash fluindo mesmo quando você está desconectado.",
+        "A profundidade está por trás da sorte. Cada giro vem de um pool de raridade ponderado, então acumular sorte, combinar a isca com a zona certa e cronometrar os giros com os eventos mudam suas chances. Some multiplicadores de renascimento e um mercado de trocas entre jogadores, e Roll a Fisherman recompensa tanto o orçamento inteligente quanto os giros de sorte."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "FISH X SPEEDI"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Tycoon de pesca"
+        },
+        {
+          "label": "Visitas",
+          "value": "5.8M+"
+        },
+        {
+          "label": "CCU de pico",
+          "value": "28.7K+"
+        },
+        {
+          "label": "Códigos ativos",
+          "value": "7"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore a Roll a Fisherman Wiki",
+      "description": "Tudo o que você precisa para dominar Roll a Fisherman no Roblox: códigos ativos, passos para iniciantes, zonas de pesca, níveis de raridade dos peixes, varas e equipamentos, e um roteiro completo de progressão.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Roll a Fisherman Wiki Códigos",
+          "description": "Resgate os códigos ativos mais recentes de Roll a Fisherman para ganhar Cash, Gold, giros e multiplicadores de sorte, além de soluções para os erros de resgate mais comuns.",
+          "href": "/codes/roll-a-fisherman-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "RELEASE",
+              "detail": "Código de lançamento que distribui Cash grátis para suas primeiras varas"
+            },
+            {
+              "label": "UPDATE1",
+              "detail": "Código da primeira atualização com Cash e giros extras"
+            },
+            {
+              "label": "UPDATE2",
+              "detail": "Código da segunda atualização recheado de Gold e giros de roleta"
+            },
+            {
+              "label": "GOLD",
+              "detail": "Moeda Gold premium para upgrades e equipamentos premium"
+            },
+            {
+              "label": "UPGRADES",
+              "detail": "Cash extra para investir em varas, barcos e armazenamento"
+            },
+            {
+              "label": "FISHING",
+              "detail": "Cash mais um impulso de sorte para buscar capturas mais raras"
+            },
+            {
+              "label": "SEAL",
+              "detail": "Código temático de foca que libera recompensas grátis"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Roll a Fisherman Wiki Guia para iniciantes",
+          "description": "Um guia inicial passo a passo que cobre o loop de girar e pescar, quais varas manter, onde gastar seu primeiro Cash e os erros de iniciante que travam o progresso.",
+          "href": "/guide/roll-a-fisherman-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Termine o tutorial e resgate seu giro inicial grátis"
+            },
+            {
+              "label": "2",
+              "detail": "Equipe sua melhor vara e lance na zona inicial para ganhar Cash"
+            },
+            {
+              "label": "3",
+              "detail": "Gire em lotes de cinco e defina uma regra de parada antes de gastar"
+            },
+            {
+              "label": "4",
+              "detail": "Compare os atributos de sorte e renda em vez de perseguir a cor da raridade"
+            },
+            {
+              "label": "5",
+              "detail": "Desbloqueie a próxima zona assim que um ciclo completo de pesca ficar lento"
+            },
+            {
+              "label": "6",
+              "detail": "Guarde uma reserva de Cash para eventos surpresa e giros limitados"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Roll a Fisherman Wiki Guia de pesca",
+          "description": "Fundamentos da pesca explicados: como as zonas filtram a tabela de loot, como isca e varas se acumulam e como transformar cada lançamento em renda constante.",
+          "href": "/maps/roll-a-fisherman-fishing-map",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Zonas",
+              "detail": "Cada mapa filtra a tabela de loot e define o teto de raridade das suas capturas"
+            },
+            {
+              "label": "Isca",
+              "detail": "A isca específica de cada mapa eleva as taxas de raros mais diretamente que o poder da vara"
+            },
+            {
+              "label": "Varas",
+              "detail": "Combine os bônus da vara com o nível da zona antes de lançar uma única linha"
+            },
+            {
+              "label": "Sorte",
+              "detail": "A sorte muda a ponderação de raridade, mas nunca supera o teto de um mapa"
+            },
+            {
+              "label": "Característico",
+              "detail": "Farme o peixe característico de cada mapa para obter a melhor moeda por minuto"
+            },
+            {
+              "label": "Desbloqueios",
+              "detail": "Cumpra a meta de venda, alcance o nível de vara e então farme o drop necessário"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Roll a Fisherman Wiki Guia de peixes",
+          "description": "Um catálogo de peixes capturáveis classificados por raridade e valor, das capturas comuns iniciais até a Orca Mítica e o Peixe Divino no topo do pool.",
+          "href": "/progression/roll-a-fisherman-rarest-fish",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Orca Mítica e Peixe Divino, as capturas mais raras e valiosas do pool"
+            },
+            {
+              "label": "A",
+              "detail": "Orca e as melhores capturas lendárias com forte valor de troca e pesos recordes"
+            },
+            {
+              "label": "B",
+              "detail": "Foca-da-groenlândia e peixes épicos que os colecionadores buscam por demanda constante"
+            },
+            {
+              "label": "C",
+              "detail": "Foca e capturas comuns que completam seu índice de coleção"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Roll a Fisherman Wiki Varas e equipamentos",
+          "description": "Compare varas, iscas, linhas e molinetes por nível, e aprenda quais upgrades elevam mais rápido seu teto de peso e as chances de captura rara.",
+          "href": "/mechanics/roll-a-fisherman-biggest-fish",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Varas",
+              "detail": "Os bônus são situacionais, então equipe a vara que combina com sua zona atual"
+            },
+            {
+              "label": "Isca",
+              "detail": "Direcione o pool para sua espécie-alvo e acelere as taxas de fisgada"
+            },
+            {
+              "label": "Linha",
+              "detail": "Linha reforçada e molinetes importam mais quando os peixes de águas profundas começam a fisgar"
+            },
+            {
+              "label": "Barcos",
+              "detail": "Barcos e armazenamento maiores significam mais peixes por viagem e renda mais rápida"
+            },
+            {
+              "label": "Sorte",
+              "detail": "Acumule consumíveis, bônus de evento e vantagens de grupo antes de um lote de giros"
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Financie o equipamento que eleva seu teto de renda antes de comprar cosméticos"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Roll a Fisherman Wiki Localizações",
+          "description": "Organiza cada zona de pesca, do lago inicial às águas profundas e de evento, com os requisitos de desbloqueio e o peixe característico de cada área.",
+          "href": "/maps/roll-a-fisherman-map",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lago",
+              "detail": "Águas iniciais com peixes comuns e incomuns e equipamento inicial grátis"
+            },
+            {
+              "label": "Porto",
+              "detail": "Zona costeira desbloqueada pela primeira meta de venda, com teto Raro"
+            },
+            {
+              "label": "Oceano",
+              "detail": "Mapa de águas abertas liberado por um requisito de nível de vara e capturas épicas"
+            },
+            {
+              "label": "Mar profundo",
+              "detail": "Perfil de alto peso para peixes recordes, liberado por moeda e missões"
+            },
+            {
+              "label": "Evento",
+              "detail": "Zonas por tempo limitado com peixes exclusivos e muita concorrência"
+            },
+            {
+              "label": "Oculto",
+              "detail": "Pontos desbloqueáveis que podem te surpreender com um recorde pessoal"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Roll a Fisherman Wiki Guia de progressão",
+          "description": "Um roteiro de marcos do seu primeiro lançamento até o status de milionário e bilionário, mostrando o que desbloquear, melhorar e priorizar em cada etapa.",
+          "href": "/progression/roll-a-fisherman-billionaire",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Construa um loop de Cash estável com uma vara de alta renda antes de buscar raros"
+            },
+            {
+              "label": "2",
+              "detail": "Desbloqueie a segunda zona e melhore a isca para elevar o valor das capturas"
+            },
+            {
+              "label": "3",
+              "detail": "Use uma configuração de duas varas: uma para caçar sorte, outra para renda estável"
+            },
+            {
+              "label": "4",
+              "detail": "Renascia e acumule multiplicadores quando os upgrades começarem a parecer caros"
+            },
+            {
+              "label": "5",
+              "detail": "Avance para águas profundas e farme peixes característicos para sessões de seis dígitos"
+            },
+            {
+              "label": "6",
+              "detail": "Guarde duplicados para trocar e busque capturas mítica e divina"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Roll a Fisherman Wiki Dicas e truques",
+          "description": "Estratégias práticas para giros mais inteligentes, trocas justas e sessões eficientes, incluindo os hábitos que separam o progresso rápido dos lançamentos desperdiçados.",
+          "href": "/mechanics/roll-a-fisherman-trading",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Em lotes",
+              "detail": "Gire em lotes com uma regra de parada para suavizar o azar e proteger seu Cash"
+            },
+            {
+              "label": "Trocas",
+              "detail": "Pese raridade, demanda e oferta antes de aceitar qualquer oferta"
+            },
+            {
+              "label": "Reserva",
+              "detail": "Nunca gaste até zero, já que eventos e giros limitados aparecem sem aviso"
+            },
+            {
+              "label": "Registro",
+              "detail": "Anote zona, isca e peso para poder repetir o que realmente funciona"
+            },
+            {
+              "label": "Paciência",
+              "detail": "Mantenha uma configuração por uma sessão inteira em vez de trocar de equipamento a cada poucos lançamentos"
+            },
+            {
+              "label": "Segurança",
+              "detail": "Troque apenas dentro do jogo e fuja de ofertas apressadas ou fora da plataforma"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes de Roll a Fisherman",
+      "description": "Respostas rápidas às perguntas mais comuns sobre Roll a Fisherman.",
+      "items": [
+        {
+          "question": "O que é Roll a Fisherman?",
+          "answer": "Roll a Fisherman é um tycoon de pesca RNG free-to-play no Roblox do desenvolvedor FISH X SPEEDI. Você gira para conseguir pescadores, coloca-os na sua doca para capturar peixes, vende a pesca por Cash e reinvista em varas, barcos e upgrades melhores, com ganhos offline mantendo o Cash fluindo entre sessões."
+        },
+        {
+          "question": "Roll a Fisherman é grátis para jogar?",
+          "answer": "Sim. Roll a Fisherman é grátis para começar no Roblox, e a progressão é movida por Cash e Gold do jogo obtidos pescando e com códigos. Podem existir compras opcionais, mas nada no loop principal exige gastar dinheiro real."
+        },
+        {
+          "question": "Como consigo mais Cash rápido em Roll a Fisherman?",
+          "answer": "Primeiro construa uma vara de alta renda, pesque na zona que combina com seu equipamento e farme o peixe característico de cada mapa para obter a melhor moeda por minuto. Resgate códigos ativos de Roll a Fisherman, guarde duplicados para trocar e renascia para acumular multiplicadores permanentes."
+        },
+        {
+          "question": "Como funcionam os códigos de Roll a Fisherman?",
+          "answer": "Os códigos são strings promocionais grátis que concedem Cash, Gold, giros e multiplicadores de sorte. Abra o menu de códigos do jogo, cole o código exatamente como escrito e pressione Resgatar. Os códigos diferenciam maiúsculas de minúsculas, então copie e cole em vez de digitar à mão."
+        },
+        {
+          "question": "Qual é o peixe mais raro de Roll a Fisherman?",
+          "answer": "A Orca Mítica e o Peixe Divino estão no topo do pool de raridade, acima de capturas lendárias como a Orca padrão. Raridade e peso são giros separados, então um peixe raro ainda precisa de uma zona de teto alto e multiplicadores de peixes grandes para estabelecer um recorde."
+        },
+        {
+          "question": "Posso trocar peixes e itens em Roll a Fisherman?",
+          "answer": "Sim. As trocas permitem trocar capturas duplicadas, varas e colecionáveis com outros jogadores. Compare raridade, demanda e oferta antes de aceitar uma oferta, use apenas o sistema de trocas do jogo e nunca leve um acordo para fora da plataforma."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar Roll a Fisherman?",
+      "description": "De girar seu primeiro pescador até construir um império de Cash offline, nossa wiki comunitária cobre você com guias grátis e atualizados.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Roll a Fisherman (outubro de 2026)",
+    "overviewDescription": "Todos os códigos ativos e expirados de Roll a Fisherman, além de instruções de resgate passo a passo e detalhes das recompensas, acompanhados pela Roll a Fisherman Wiki."
+  },
+  "guide": {
+    "overviewTitle": "Guia para iniciantes de Roll a Fisherman",
+    "overviewDescription": "Comece sua jornada em Roll a Fisherman com a Roll a Fisherman Wiki: controles, o loop da doca, girar pescadores e dicas de Cash inicial para novos jogadores."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Roll a Fisherman",
+    "overviewDescription": "Raridades de peixes, trocas, eventos de abuso de admin e os sistemas centrais de Roll a Fisherman explicados pela Roll a Fisherman Wiki."
+  },
+  "items": {
+    "overviewTitle": "Peixes e itens de Roll a Fisherman",
+    "overviewDescription": "Cada captura notável de Roll a Fisherman, de focas e orcas a peixes míticos e divinos, documentada pela Roll a Fisherman Wiki."
+  },
+  "progression": {
+    "overviewTitle": "Guia de progressão de Roll a Fisherman",
+    "overviewDescription": "Alcance seu primeiro milhão e além com os roteiros de dinheiro, renascimento e peixes mais raros da Roll a Fisherman Wiki."
+  },
+  "maps": {
+    "overviewTitle": "Mapas de Roll a Fisherman",
+    "overviewDescription": "Explore cada mapa, ponto de pesca e localização oculta de Roll a Fisherman com a Roll a Fisherman Wiki."
+  },
+  "community": {
+    "overviewTitle": "Comunidade e atualizações de Roll a Fisherman",
+    "overviewDescription": "Notas de patch, links do Discord, notícias de atualização e eventos de criadores acompanhados pela Roll a Fisherman Wiki."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leituras relacionadas",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Roll a Fisherman Wiki",
+    "about": "A Roll a Fisherman Wiki é um hub de guias independente feito por fãs que cobre o loop da doca, peixes, pescadores, upgrades, renascimentos, ganhos offline e o conhecimento essencial do jogo para jogadores novos e veteranos.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Jurídico",
+    "copyright": "2026 Roll a Fisherman Wiki. Sem afiliação com FISH X SPEEDI ou Roblox.",
+    "description": "Tycoon de pesca RNG grátis no Roblox. Gire pescadores, capture peixes e ganhe cash offline.",
+    "playGame": "Jogar Roll a Fisherman",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Ferramentas de Roll a Fisherman",
+    "beginnerGuide": "Guia para iniciantes",
+    "codesGuides": "Códigos e recompensas",
+    "fishGuides": "Peixes e itens",
+    "mapsGuides": "Mapas e pontos",
+    "privacyPolicy": "Política de privacidade",
+    "termsOfService": "Termos de serviço"
+  }
+}
